@@ -1,0 +1,29 @@
+.Exhibit {
+    float: left;
+    margin: 0.5vw;
+    padding: 0vw 2vw 0vw 2vw;
+    text-align: center;
+    color: #262922;
+    background-color: #b1b8a9;
+    border: 0.1vw solid #4a5240;
+    border-radius: 2vw;
+}
+
+.ExhibitHeading {
+    font-weight: bold;
+    font-size: 1.5vw;
+}
+.ExhibitContent {
+    margin: 0.5vw;
+    padding: 1vw 1vw 1vw 1vw;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.75vw;
+    color: #262922;
+    background-color: #b1b8a9;
+    border: 0.1vw solid #4a5240;
+    border-radius: 2vw;
+    display: flex;
+    flex-direction: row;
+    justify-self: space-around;
+}

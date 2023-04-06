@@ -1,0 +1,11 @@
+.Banner {
+    margin: 0.5vw;
+    padding: 0vw 2vw 0vw 2vw;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.75vw;
+    color: #262922;
+    background-color: #b1b8a9;
+    border: 0.1vw solid #4a5240;
+    border-radius: 1vw;
+}
